@@ -1,0 +1,66 @@
+Ensimmäinen Mooseksen
+Toinen Mooseksen
+Kolmas Mooseksen
+Neljäs Mooseksen
+Viides Mooseksen
+Joosua
+Tuomarien Kirja
+Ruut
+Ensimmäinen Samuelin Kirja
+Toinen Samuelin Kirja
+Ensimmäinen Kuningasten Kirja
+Toinen Kuningasten Kirja
+Ensimmäinen Aikakirja
+Toinen Aikakirja
+Esra
+Nehemia
+Ester
+Job
+Psalmit
+Sananlaskut
+Saarnaaja
+Korkea Veisu
+Jesaja
+Jeremia
+Valitusvirret
+Hesekiel
+Daniel
+Hoosea
+Jooel
+Aamos
+Obadja
+Joona
+Miika
+Naahum
+Habakuk
+Sefanja
+Haggai
+Sakarja
+Malakia
+Matteuksen
+Markuksen
+Luukkaan
+Johanneksen
+Apostolien Teot
+Kirje Roomalaisille
+Ensimmäinen Kirje Korinttilaisille
+Toinen Kirje Korinttilaisille
+Kirje Galatalaisille
+Kirje Efesolaisille
+Kirje Filippiläisille
+Kirje Kolossalaisille
+Ensimmäinen Kirje Tessalonikalaisille
+Toinen Kirje Tessalonikalaisille
+Ensimmäinen Kirje Timoteukselle
+Toinen Kirje Timoteukselle
+Kirje Titukselle
+Kirje Filemonille
+Kirje Heprealaisille
+Jaakobin Kirje
+Ensimmäinen Pietarin Kirje
+Toinen Pietarin Kirje
+Ensimmäinen Johanneksen Kirje
+Toinen Johanneksen Kirje
+Kolmas Johanneksen Kirje
+Juudaksen Kirje
+Johanneksen Ilmestys
